@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Mansi Rawat</h1>
-<h3 align="center">Data Science and machine learning fanatic</h3>
+<h3 align="center">Learning New Skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manc1811&label=Profile%20views&color=0e75b6&style=flat" alt="manc1811" /> </p>
 

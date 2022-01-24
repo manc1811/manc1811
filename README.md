@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manc1811&label=Profile%20views&color=0e75b6&style=flat" alt="manc1811" /> </p>
 
-- 🔭 I’m currently working on **Sales Conversion Optimization**
+- 🔭 I’m currently working on **Neural Networks Project**
 
-- 🌱 I’m currently learning **Data Science baiscs by Google.**
+- 🌱 I’m currently learning **Data Science basics by Google.**
 
 - 📝 I regularly write articles on [https://www.marktechpost.com/author/mansirawat/](https://www.marktechpost.com/author/mansirawat/)
 

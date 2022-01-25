@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manc1811&label=Profile%20views&color=0e75b6&style=flat" alt="manc1811" /> </p>
 
-- 🔭 I’m currently working on **Neural Networks Project**
+- 🔭 I’m currently working on **Flux prediction using ML**
 
 - 🌱 I’m currently learning **Data Science basics by Google.**
 
